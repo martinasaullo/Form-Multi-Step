@@ -1,7 +1,5 @@
 ﻿# Form-Multi-Step
 
- # Progetto Form Multi-Step
-
 ## Descrizione
 Questo progetto è un form multi-step sviluppato come esercitazione durante il corso di formazione **Digitazon**.
 
